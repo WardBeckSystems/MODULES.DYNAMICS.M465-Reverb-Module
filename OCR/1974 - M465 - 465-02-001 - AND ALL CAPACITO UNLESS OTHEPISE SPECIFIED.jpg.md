@@ -22,7 +22,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Words (OCR):** 99 in 87 lines: Rii · Sw7 · R-R ON · 15 · 713 12 < · 2E2 · 5.6 · R38 · FADER · Ri3 · RETURN · IN
 - **Wiring (first pass):** 59 connected wire groups from 290 runs; labelled ends: 353 mm → MASTER, Ri, 30, 300; 338 mm → Rii, 5.6, Ri3, Sw7; 225 mm → Ri3, R12; 210 mm → R-R ON, R38, 713; 209 mm → R37, 620
 
-Every curve, box, word and wire group: [1974 - M465 - 465-02-001 - AND ALL CAPACITO UNLESS OTHEPISE SPECIFIED (traced).json](../SCHEMATICS/1974%20-%20M465%20-%20465-02-001%20-%20AND%20ALL%20CAPACITO%20UNLESS%20OTHEPISE%20SPECIFIED%20(traced).json) (the CAD file: `1974 - M465 - 465-02-001 - AND ALL CAPACITO UNLESS OTHEPISE SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 465-02-001 - AND ALL CAPACITO UNLESS OTHEPISE SPECIFIED (traced).json](../SCHEMATICS/1974%20-%20M465%20-%20465-02-001%20-%20AND%20ALL%20CAPACITO%20UNLESS%20OTHEPISE%20SPECIFIED%20%28traced%29.json) (the CAD file: `1974 - M465 - 465-02-001 - AND ALL CAPACITO UNLESS OTHEPISE SPECIFIED (traced).dxf`).
 
 ## Full text
 

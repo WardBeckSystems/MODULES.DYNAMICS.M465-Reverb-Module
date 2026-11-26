@@ -19,7 +19,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (27.7, 78.2)
 - **Closed boxes:** 82
 
-Every curve, box, word and wire group: [1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE (traced).json](../PINOUTS/1974%20-%20M465%20-%20465-04-003%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20(traced).json) (the CAD file: `1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE (traced).json](../PINOUTS/1974%20-%20M465%20-%20465-04-003%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20%28traced%29.json) (the CAD file: `1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE (traced).dxf`).
 
 ## Full text
 

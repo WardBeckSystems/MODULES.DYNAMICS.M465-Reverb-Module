@@ -20,7 +20,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Words (OCR):** 135 in 68 lines: WBS · M465 · REVERB SEND HSTER Ieve control RI/z: Controls Ieve · REV SEND sec[iOn_ · VU Heter: Indicates output · Jeve | REV SEND section. · Mstr · feeds Pre" · faoe REV · SOLO shitch SwS; Hhen depressed, · SEND signa · to SOLO output bus
 - **Title block:** (145, 0)–(335, 319) mm: WBS · M465 · REVERB SEND HSTER Ieve control RI/z: Controls Ieve · REV SEND sec[iOn_ · Mstr · feeds Pre" · faoe REV · SOLO shitch SwS; Hhen depressed, · SEND signa · to SOLO output bus · LEVEL control 
 
-Every curve, box, word and wire group: [1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE (traced).json](../MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20SOLO%20OUTPUT%20BUS%20NOTE%20THAT%20THE%20(traced).json) (the CAD file: `1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE (traced).json](../MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20SOLO%20OUTPUT%20BUS%20NOTE%20THAT%20THE%20%28traced%29.json) (the CAD file: `1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Words (OCR):** 86 in 75 lines: tipz9b · Tipbob · Q3 · R4256 Q4 · A4 · R4326 · Rai · Cri · 343569 · CR2 · #CRA- · 05 -R4454
 - **Title block:** (179, 10)–(281, 62) mm: WBS WARD-BECK bystem8 LTD · Dm · M465 · DATE 210C1/77 · REVERB MODULE · cKoRaL · ISCALE · PCB · TOLS · 4-132-06-001
 
-Every curve, box, word and wire group: [1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4 (traced).json](../SCHEMATICS/1977%20-%204-132-06-001%20-%20REVERB%20MODULE%20PCB%20LAYOUT%20-%20DRN%20DM%20-%20ISS%204%20(traced).json) (the CAD file: `1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4 (traced).json](../SCHEMATICS/1977%20-%204-132-06-001%20-%20REVERB%20MODULE%20PCB%20LAYOUT%20-%20DRN%20DM%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4 (traced).dxf`).
 
 ## Full text
 

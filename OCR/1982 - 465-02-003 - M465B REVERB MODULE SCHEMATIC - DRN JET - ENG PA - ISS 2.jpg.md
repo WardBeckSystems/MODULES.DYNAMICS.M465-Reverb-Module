@@ -36,7 +36,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Title block:** (703, 2)–(864, 81) mm: ISSUE DATE · D22_ PEL CTL ApEr · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN , · M465B · ENG · PA · REVERB MODULE · CKD: · APP · SCHEMATIC · SCALE · 465-02-003 · ISSUE
 - **Wiring (first pass):** 198 connected wire groups from 993 runs; labelled ends: 782 mm → Post, PRE, FoSt, pre; 743 mm → 5.6, 2 /2, Post; 593 mm → 5.6, 2 /2; 416 mm → Ris, 390, Rie, Rzo; 228 mm → Ri3, 390
 
-Every curve, box, word and wire group: [1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20465-02-003%20-%20M465B%20REVERB%20MODULE%20SCHEMATIC%20-%20DRN%20JET%20-%20ENG%20PA%20-%20ISS%202%20(traced).json) (the CAD file: `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20465-02-003%20-%20M465B%20REVERB%20MODULE%20SCHEMATIC%20-%20DRN%20JET%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

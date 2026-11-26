@@ -38,7 +38,7 @@ Schematic of the M485B reverb module.
 - **Title block:** (352, 11)–(432, 50) mm: IssuDAtd · REVISION · APP: · WBS WARO-BeCk BysteMS · DRN IE32 · M465B · ENG; PA · REVERB MODULE · cKD_JUC · SCHEMATIC · SCALE · 465-02-003 · ISSUE
 - **Wiring (first pass):** 153 connected wire groups from 825 runs; labelled ends: 578 mm → 2i2, Post; 400 mm → QTy, PT: Ng; 387 mm → NEAR, (Sw |0, Post, PRE; 357 mm → RI, 5.6, ris, 390; 295 mm → 5.6, 2i2
 
-Every curve, box, word and wire group: [1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20465-02-003%20-%20M465B%20REVERB%20MODULE%20SCHEMATIC%20-%20DRN%20JEI%20-%20ENG%20PA%20-%20ISS%202%20(traced).json) (the CAD file: `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20465-02-003%20-%20M465B%20REVERB%20MODULE%20SCHEMATIC%20-%20DRN%20JEI%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

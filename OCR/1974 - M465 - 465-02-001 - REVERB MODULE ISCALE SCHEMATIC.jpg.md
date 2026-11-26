@@ -23,7 +23,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Title block:** (214, 8)–(257, 52) mm: WBS · DRM PM · DATE 21 OCLLII · CKD · SCALE · TOLS _
 - **Wiring (first pass):** 120 connected wire groups from 508 runs; labelled ends: 546 mm → 4755], 34, 3522; 523 mm → Rg, Ik, 37, R8; 390 mm → R2i, 390, 2E4, 37; 336 mm → R3O 300, R27, 75, 300; 209 mm → 711, Sw6
 
-Every curve, box, word and wire group: [1974 - M465 - 465-02-001 - REVERB MODULE ISCALE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M465%20-%20465-02-001%20-%20REVERB%20MODULE%20ISCALE%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M465 - 465-02-001 - REVERB MODULE ISCALE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 465-02-001 - REVERB MODULE ISCALE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M465%20-%20465-02-001%20-%20REVERB%20MODULE%20ISCALE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M465 - 465-02-001 - REVERB MODULE ISCALE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

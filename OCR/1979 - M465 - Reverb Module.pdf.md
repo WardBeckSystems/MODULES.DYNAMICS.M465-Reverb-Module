@@ -27,7 +27,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Closed boxes:** 1
 - **Words (OCR):** 23 in 12 lines: (VVElS] 84' f'RI:IGI"IESS AVEN.JE. sco..qeoRClUGH, 41 <l3S i550 · WARD-BECK SYSTEM · ONTARIO · 1H · T'EI..EX · OB" · M465 · REV ERB MO DULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p1 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p1%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p1 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p1%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p1 (traced).
 - **Words (OCR):** 120 in 52 lines: WA FIO- BE CK SYS EMS LT · TABLE OF CON TENTS · K465 REVERB MODULE · Warranty · Tech cal Data · 1-1 to 1-2 · Ci · it ne · pt ton · 2·1 to 2-2 · Pa rts ht · to
 - **Wiring (first pass):** 9 connected wire groups from 74 runs; labelled ends: 77 mm → MODULE, K465; 68 mm → TENTS, MODULE, TABLE, K465; 60 mm → ps, JAN., MANUAL; 26 mm → 1'465; 5 mm → Fr
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p2 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p2%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p2 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p2%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p2 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 164 in 60 lines: WA · CK · MS TD. · TECHNICAL DATA · 101465 REVERB MODULE · Ga in · Retu rn: · 15 dB :!:O.S · Send: · JJdB · reque ncy Response: · .2S dB froll 20 Hz to 20 kHz.
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p3 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p3%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p3 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p3%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p3 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 87 in 34 lines: WA FI · EC SYSTEMS · TECHNICAL DATA · 1'4465 REVERB MODU LE · Out put Le vel · Ret urn: · 10 dB. no ne · 2B dBII'I lIi Xll1UIII · Send: · no. na · t24 dB. lIi Xil1 UIll · Phasing:
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p4 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p4%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p4 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p4%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -74,7 +74,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p4 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 345 in 108 lines: WAR · CK · YS EMS LT · CIRCUIT DESCRIPTION · M465 REVERB MODU LE · The M46 REVE RB MO DULE is · sig ne to be · ed · co njunc tion · wi · ell te rnel · ve rbe
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p5 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p5%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p5 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p5%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p5 (traced).
 - **Closed boxes:** 1
 - **Words (OCR):** 95 in 32 lines: WA · SYSTEMS LTD · CIRCUI DESCRIPTIO · M465 REVERB MODULE · Power Supply Oecoupli ng · An active powe supply dec ou pl ing net wor consis ing of 01 · through 06 · pr ovt de · high deg re of isolation betwee · he · M465 · and the !25
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p6 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p6%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p6 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p6%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p6 (traced).
 - **Closed boxes:** 2
 - **Words (OCR):** 104 in 76 lines: PARTS LIST · M465 REV ERB MODULE · PART OESCRIP TION · 'FG · MFG PART NUMBER · C1 · CIPI;ltor ZZ uF!Z5 · Ph!lip · 4Z6£!FZZ · C2 · C3 · CO
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p7 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p7%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p7 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p7%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p7 (traced).
 - **Words (OCR):** 105 in 81 lines: SYS · LTO · PARTS LIST · 101 65 REVERS MODULE · PART DESCRIPTION · KfG · HFG PART NUHBER · Res · R19 · 51 · 390 · Ph!lf
 - **Title block:** (234, 38)–(258, 96) mm: WBS 11 · WBS · WBS · 582310
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p8 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p8%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p8 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p8%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -115,7 +115,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p8 (traced).
 - **Words (OCR):** 35 in 12 lines: WARD-BECK SYSTEMS TD · M465 REVERB MODULE · WBS · oe end · he use of repl aceeen parts lIIa de by th · specified lIilnufa ur rs for continued optimUIII equipment · pe rfo lllilnce. · ps · BS · tp · ht · 3-3
 - **Title block:** (23, 311)–(132, 422) mm: WARD-BECK SYSTEMS TD · WBS · oe end
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p9 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p9%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p9 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p9%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p9 (traced).
 - **Outlines:** line 53 rings, 798 straight (3,107 mm) / 109 curved (159 mm); text 50 rings, 435 straight (537 mm) / 98 curved (152 mm)
 - **Words (OCR):** 14 in 7 lines: WAR D-BECK SY6TEMS LTD. · 8-1 09 AMPLIFIER SE RIES · ps · BS · tp · ht · 109
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p10 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p10%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p10 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p10%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p10 (traced)
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.9 @ (75.3, 262.6), r 1.9 @ (256.5, 142.4)
 - **Words (OCR):** 264 in 94 lines: WAR · YSTE MS L.TO · 109 AMPLIF IE SERIES · The · 109 se ies · all Hf le rs re utl1ized as an nter na · cOllpo nen within vario us IIBS seri · of lUd · co nso · ee eut es · Eac · 109 ..pHf ier 1I0unt as
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p11 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p11%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p11 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p11%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p11 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 351 in 100 lines: WAR · ECK YSTEM L.TD · DESCRIPTI ON · -109 AMPLI FIER SERIES · Outpu I.pe da nce · le ss tha 100 oll.s · oa · lIIped'nce · 600 OIlIlS balanced · Out put t.eve · +30 · dBIl
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p12 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p12%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p12 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p12%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p12 (traced)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (237.2, 327.9)
 - **Words (OCR):** 48 in 18 lines: WAR · CK SYS EMS LT · illilllli.Q! · -10 · AMPLIFI ER SERIES · nve rtf ng .pl1 ff er with El ute rnilly · ri ppe · E6. · The outp ut of II -odels of the 8-109 ser tes fs · Icthely · blhnced and · is rou gh
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p13 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p13%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p13 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p13%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p13 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 152 in 90 lines: WAR · CK SYS EMS · PARTS LIST · 8-1 09 AMPLI FIE SERI ES · -109 · PART DESCRI PTION · MFG PART NUMB ER · Cl · Cl · or 33 ur /lO · Ke:e · T390D3~6 10AS
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p14 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p14%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p14 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p14%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p14 (traced)
 - **Dots (junctions):** 3
 - **Words (OCR):** 87 in 68 lines: PARTS LIST · -10 AMPLIFIE SERI ES · !:.ill · PART · DESCRIPTION · HFG · NFl> PART HUMBER · R4 · Res to · SI · Ph~ ps · R5
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p15 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p15%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p15 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p15%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p15 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 104 in 60 lines: WA · CK YSTE · illll..lill · -109 AMPLIFIER SERIES · PART · DESCRIP TION · MFG · MFG PART "UMBER · RJ6 · R37 · 038 · de lete
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p16 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p16%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p16 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p16%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p16 (traced)
 - **Closed boxes:** 6
 - **Words (OCR):** 117 in 61 lines: WARO · I!:CK YSTEMS TO. · PARTS LIST · 10 AMPLIFIE SERI ES · All pl rt IS per 8-109 xc · IS no · el · PART · DESCRIPTION · "FG · MFG PART HUM8fR · gl Capa ~ttor pF
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p17 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p17%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p17 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p17%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p17 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 75 in 28 lines: WA · SECK · STEMS · LT · PARTS LIST · 8-109 AMPLIFIER SERIES · All parts as per 8·109 except as noted below · PART · DESCRIPTION · HFG · HFG PART NUM8ER · R15
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p18 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p18%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p18 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p18%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -225,7 +225,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p18 (traced)
 - **Closed boxes:** 80; named: UJ UJ rn II If; IX: U"\:::EIX: :::ECOIX: IX: ww IX:Z; eli III; B2; C3; D4; H7; oW; xci vi; K9; 10; M11
 - **Words (OCR):** 153 in 102 lines: eli · III · UJ · UJ · IX: · IC · IC · rn U"\:::EIX: · IC B2 · IC · :::ECOIX: · IX:
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p19 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p19%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p19 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p19%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -236,7 +236,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p19 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 22 in 16 lines: REV SEND (RS) SECTION · RS · VU · RR IN · RS IN · 10 dBm · ~----------..---;If---i · -10dBm · RS · (-6dB) · OUT · +8dBm
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p20 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p20%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p20 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p20%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -251,7 +251,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p20 (traced)
 - **Title block:** (168, 14)–(334, 123) mm: 7/78 · 8-109(C) WAS 4-109(C) · 10/77 · REDRAWN · ISSUE DATE · REVISION · APP. · [\N'SS] WARe-BECK SYSTEMS · ps · M465 · BS · REVERB MODULE · FUNCTIONAL DIAGRAM · tp · ISSUE · ht · 465-01-001
 - **Wiring (first pass):** 65 connected wire groups from 237 runs; labelled ends: 283 mm → ISSUE, [\N'SS]; 200 mm → SOLO; 179 mm → SOLO; 128 mm → 7/78, 10/77; 90 mm → SECTION, REV
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p21 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p21%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p21 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p21%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p21 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 75 in 54 lines: RI1 · T3 t2 · S.l. · FADER · RETURN · Rt3 · IN · R37 · INSER · -j()~8 '-IXlII · ~-JV'>N--..J....,.-+--'---~ "20 · Rtf
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p22 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p22%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p22 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p22%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -274,7 +274,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p22 (traced)
 - **Words (OCR):** 65 in 54 lines: 16 · t2 · -2fV · LErT · REVERB · R2f · RETURN · OUT · 390 · i'c--'---- · 17 · RIGHT
 - **Wiring (first pass):** 121 connected wire groups from 669 runs; labelled ends: 526 mm → USED, ON, MA, 435; 517 mm → 390; 401 mm → R2f; 384 mm → R28, 300, R3Z, 15; 186 mm → R28, 300, ~R/S
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p23 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p23%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p23 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p23%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p23 (traced)
 - **Closed boxes:** 25; named: BS USED ON; 2001
 - **Words (OCR):** 76 in 47 lines: T,PZ96 · vu · SW5 · TO · TO · RI~") _RJ5Eo · =iO · =TO R'2 · RI6 · zO · AR /VI) · _R23!2.K
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p24 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p24%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p24 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p24%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -298,7 +298,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p24 (traced)
 - **Words (OCR):** 67 in 52 lines: T,P Z98 · T/P · vu · JI · -R2912 · R~o · 13 · -R27~o · r.e; · II · J4 · R28 1E.°
 - **Title block:** (180, 10)–(207, 48) mm: DRN, · DATE 210 '/77 · f(t'oA · CKD · SCALE · TOLS·lM;. · XX
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p25 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p25%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p25 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p25%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -311,7 +311,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p25 (traced)
 - **Words (OCR):** 207 in 69 lines: was · M4'S · of REV SEND sec ion · REVERB SEND · ~ST ER levoel control R1/2 Controls levoel · SEND si na · SOLO sw ch SW5 · SOLO out'Put bu · When dep re ss ed · ee ds pre-hde REV · fOl O8A.CK LEVEL contro Rj · Con ols REV RElURtrl Ie
 - **Title block:** (260, 26)–(335, 47) mm: rsSlE. DAn · REVIS'ON · (\NBS) WARD-BECK SYSTEMS · tp
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p26 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p26%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p26 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p26%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -322,7 +322,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p26 (traced)
 - **Closed boxes:** 4; named: Cli
 - **Words (OCR):** 99 in 89 lines: IS · '8v · csl · 3'0 · RI7 · I!l · 10 · 22 · P"l3"4:::; · 2N~Tc · lOl · QI
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p27 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p27%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p27 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p27%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -336,7 +336,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p27 (traced)
 - **Title block:** (228, 8)–(285, 57) mm: BS · I5Sta: DATE · (VVBS] · tp · DftN. GEl · ENG.M.W · ht BOOSTER AMPLIFIER · "71 · CKD.
 - **Wiring (first pass):** 29 connected wire groups from 251 runs; labelled ends: 202 mm → ~.R27, 107; 200 mm → E3; 148 mm → C.I, 1220/10, E4; 148 mm → 20/1; 107 mm → R35, 20/1, ft-, ~.R27
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p28 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p28%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p28 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p28%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -346,7 +346,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p28 (traced)
 - **Circles and arcs:** 19 circles, 0 arcs; largest r 11.3 @ (84.7, 269.5), r 11.1 @ (21.0, 269.5), r 10.6 @ (85.1, 143.4), r 6.5 @ (14.1, 91.6)
 - **Words (OCR):** 45 in 34 lines: 10 · -CI · -RIG. 1i!2.l<. · -Rl · -RS · -R3 "K2 · -R8 18K · 1"i414& · -CRI*- · P)l~.s · 2N210t. · _C:'l..!...op
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p29 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p29%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p29 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p29%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -358,7 +358,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p29 (traced)
 - **Words (OCR):** 45 in 35 lines: Ez8 · 2~/1O · ~2~lC. · _CIO.1·7 · CII..!5 · R\3 · _C3-10/2S · ·E.s · 220JIC?C\~_ · toI" · Ecol'l3 · 4-0 17
 - **Title block:** (115, 10)–(332, 111) mm: IZO/'7 IRJI · 4-00~ · ISSUE DATE · REVISION · lAPP. · (~E3S) WARD-BECK IIYBTEMS · ps · DRN. GEl · 8-109 BS · ENG.MRW · ./78 · BOOSTER AMPLIFIER · CKD. · COMPONENT LAYOUT · APP. · tp · SCALE · ht · ISS
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p30 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p30%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p30 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p30%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -369,7 +369,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p30 (traced)
 - **Closed boxes:** 3; named: II
 - **Words (OCR):** 107 in 96 lines: RI3 · +Ie · I7 · 10 · "K7 · 1043 G.4 · E:l · Co, · 2N~~02 · z-x · RS · 21 Go
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p31 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p31%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p31 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p31%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -383,7 +383,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p31 (traced)
 - **Title block:** (226, 0)–(335, 38) mm: WARe-BE cK · tp · DRN. et · 109C · ENG,MRW 78 · ht 800S TER AM PLIFIER · eKe · SCHEM ATIC · APP. · SCALE · -109-02-004 · ISSUE
 - **Wiring (first pass):** 28 connected wire groups from 321 runs; labelled ends: 204 mm → E3; 197 mm → E7; 190 mm → BS, \/Va; 150 mm → IS, E4-, 20/, 10; 147 mm → 4K, 10
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p32 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p32%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p32 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p32%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -395,7 +395,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p32 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 44 in 33 lines: 1"14-1480 · CRI · 3~.5 · ZI · "Z2 · lF3S'- · LF 35 · 2N210Z. _C,..!..Op · Rli 4K, · -R19 22 · _CI · -Cl\~·'p
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p33 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p33%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p33 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p33%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -407,7 +407,7 @@ Every curve, box, word and wire group: [1979 - M465 - Reverb Module p33 (traced)
 - **Words (OCR):** 52 in 34 lines: Ez8 · C2 ;!31>o · -f\2 4il<, · Z2 · F35 Go · _CI O±'7 · -RI\~K · 2+0 · _R\3 3~0 · _C3~O 'ZS · ESe · C1ro
 - **Title block:** (115, 12)–(326, 112) mm: ISSUE DATE · REVISION · PP. · [\NSs] ARD-BECK SYSTEMS · ps · DRN GEB · 8-1 9C · BS · ENG.MRW · A/78 · BOOSTER AMPLI FIER · 'i2dJ.<- · CKD. · CO MPO NENT LAYOUT · APP. · tp · SCALE · ht · ISSUE · -109-
 
-Every curve, box, word and wire group: [1979 - M465 - Reverb Module p34 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p34%20(traced).json) (the CAD file: `1979 - M465 - Reverb Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M465 - Reverb Module p34 (traced).json](../MANUALS/1979%20-%20M465%20-%20Reverb%20Module%20p34%20%28traced%29.json) (the CAD file: `1979 - M465 - Reverb Module p34 (traced).dxf`).
 
 ## Full text
 

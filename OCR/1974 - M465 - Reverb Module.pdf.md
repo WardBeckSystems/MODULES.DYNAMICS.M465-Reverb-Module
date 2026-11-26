@@ -22,7 +22,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Words (OCR):** 13 in 9 lines: WARD-BECK · SYSTEMS LTD_ · WBS 841 PROGAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/439-6550 · M465 · REVERB MODULE · DESIGN AND MANUFACTUAE Of PPOFESSIONL · AUDIO EQUPMENT
 - **Title block:** (45, 386)–(266, 423) mm: WARD-BECK · SYSTEMS LTD_ · WBS 841 PROGAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/439-6550
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p1 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p1%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p1 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p1%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p1 (traced).
 - **Title block:** (22, 78)–(281, 427) mm: WAAD-BECK SYSTEMS LTD_ · IABLE · 0F · COnTENIS · M465 REVERB · MODULE · PAGE · SECTION · Warranty · Technica] Da ta · 1-1 · to 1-2 · circuit Description · 2 -1 to · 2-2 · List · 3 - 1 t0 · 3 - 3 · Par
 - **Wiring (first pass):** 2 connected wire groups from 21 runs
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p2 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p2%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p2 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p2%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p2 (traced).
 - **Words (OCR):** 138 in 69 lines: WAAD-BECK systems LTD_ · TECHNICAL · DATA · M465 REVERB MODULE · Gain: · Return: · 15 · dB +0 .5 dB_ · Send: · 33 · dB +0 .5 dB · Frequency Response:
 - **Title block:** (25, 400)–(154, 424) mm: WAAD-BECK systems LTD_
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p3 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p3%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p3 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p3%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p3 (traced).
 - **Outlines:** line 38 rings, 964 straight (3,347 mm) / 71 curved (120 mm); text 490 rings, 3,883 straight (4,476 mm) / 998 curved (1,552 mm)
 - **Words (OCR):** 62 in 34 lines: WAAD-BECK SYSTeMS LTD_ · TECHNICAL DATA · M465 REVERB MODULE · Output · Levels: · Return: · -10 dBm nomina ] · +28 dBm maximum. · Send : · dBm · nomina] , 424 dBm maximum_ · Phasing:
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p4 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p4%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p4 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p4%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -64,7 +64,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p4 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 261 in 131 lines: WARD-BECK · LTD_ · CIRCUII_DESCRIPIION · M465 REVERB · MODULE · The · M465 REVERB · MODULE des igned be · i5 · t0 · used in · conjunction
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p5 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p5%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p5 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p5%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p5 (traced).
 - **Outlines:** line 46 rings, 981 straight (3,664 mm) / 103 curved (166 mm); text 509 rings, 3,990 straight (4,542 mm) / 1,136 curved (1,808 mm)
 - **Words (OCR):** 67 in 35 lines: WAAD-BECK SYSTEmS LTD_ · CIRCUIT DESCRIPTION · M465 REVERB · MODULE · Power · Supply_Decoupl · ing · An · active power · supply decoup]ing network · consisting 0 f Q1 · through Q6
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p6 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p6%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p6 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p6%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -83,7 +83,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p6 (traced).
 - **Words (OCR):** 90 in 76 lines: WARD-BECK SYSTEMS LTD · PARIS LIST · M465 REVERB · MODULE · PART DESCRIPTION · MFG · MFG · PART · NUMBER · C1 · Capacitor 22 uF/25 · Philips
 - **Title block:** (24, 108)–(264, 425) mm: WARD-BECK SYSTEMS LTD · PARIS LIST · M465 REVERB · MODULE · PART DESCRIPTION · MFG · MFG · C1 · Capacitor 22 uF/25 · Philips · 426ETF22 · Cz · C3 · C4 · CRl Diode · Motoro]a · 1n4003 · CR2 · CR3 · CR4
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p7 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p7%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p7 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p7%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -93,7 +93,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p7 (traced).
 - **Words (OCR):** 94 in 85 lines: WAAD-BECK SYSTEMS · LTD_ · PARIS LISI · M465 · REVERB MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · R19 · Res istor · 390
 - **Title block:** (24, 38)–(260, 424) mm: WAAD-BECK SYSTEMS · LTD_ · PARIS LISI · M465 · REVERB MODULE · PART DESCRIPTION · MFG · MFG PART · R19 · Res istor · 390 · Philips · R20 · 390 · R21 · 390 · R22 · 390 · R2 3 · 15k · R24 · 15k · R25 · 
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p8 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p8%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p8 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p8%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p8 (traced).
 - **Words (OCR):** 25 in 14 lines: WAAD-BECK Systems LTD · PARTS · LIST · M465 REVERB · MODULE · WBS recommends the us e · 0 f · replacement parts ma de by · the · specified · manufacturers for · continued optimum equipment
 - **Title block:** (21, 311)–(132, 424) mm: WAAD-BECK Systems LTD · WBS recommends the us e · specified · manufacturers for
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p9 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p9%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p9 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p9%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p9 (traced).
 - **Outlines:** line 41 rings, 674 straight (2,968 mm) / 73 curved (108 mm); text 58 rings, 528 straight (667 mm) / 129 curved (197 mm)
 - **Words (OCR):** 6 in 4 lines: WAAD-BECK · Sybtems LTD_ · 8-109 AMPLIFIER SERIES · 8-109
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p10 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p10%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p10 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p10%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p10 (traced)
 - **Words (OCR):** 201 in 109 lines: WARD-BECK Systems LTD. · OAAW · DESCRIPIION · 8-109 AMPLIFIER · SERIES · The 8-109 series · of amplifiers utilized an · are · internal · component within various · WBS series 0 f audio console · modules .
 - **Title block:** (19, 310)–(162, 429) mm: WARD-BECK Systems LTD. · 8-109 AMPLIFIER · The 8-109 series · component within various · Each · 8-109 amplifier mounts a5
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p11 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p11%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p11 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p11%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -135,7 +135,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p11 (traced)
 - **Words (OCR):** 262 in 122 lines: WAAD-BECK SYSTEMS LTD · DESCRLPILON · 8-109 AMPLIFIER · SERIES · Output Impedance: · Less than · 100 ohms · 1C · Load Impedance: 600 ohms ba ]anced . · 80; -0 · Output Level : · +30 dBm maximum_
 - **Title block:** (24, 404)–(152, 429) mm: WAAD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p12 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p12%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p12 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p12%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p12 (traced)
 - **Outlines:** line 198 rings, 1,452 straight (3,565 mm) / 299 curved (372 mm); text 242 rings, 2,115 straight (2,419 mm) / 570 curved (890 mm)
 - **Words (OCR):** 29 in 13 lines: WARO-BECK BYSTEME LTD_ · DESCRIPIION · 8-109 AMPLIELER_SERIES · inverting amplifier with El externally strapped to E6 _ · The output · of a11 models 0 f the 8-109 · series · is actively · ba lanced and is · brought out at · Pins · E4 and E6 _
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p13 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p13%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p13 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p13%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -155,7 +155,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p13 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 104 in 93 lines: WAAD-BECK · LTD_ · LIST · PARIS · 8-109 · AMPLLFIERSERIES · 8-109 · PARI DESCRIPILON · MFG · MFG PART NUMBER · C1 · Capacitor 33 uF/ 10
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p14 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p14%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p14 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p14%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -166,7 +166,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p14 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 93 in 85 lines: WAAD-BECK · LTD_ · PARIS LISI · 8-109 AMPLIFLERSERLES · 8-109 · MFG · MFG PART · NUMBER · PART DESCRIPIION · R4  Resistor · 6k2 · Philips
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p15 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p15%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p15 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p15%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p15 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 99 in 84 lines: WAAD-BECK SYStems LTD. · PARIS · LIST · 8-109 · AMPLIFIER_SERIES · 8-109 · 2 9 · 790 · PART · DESCRIPIION · MFG · MFG PART
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p16 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p16%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p16 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p16%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -187,7 +187,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p16 (traced)
 - **Closed boxes:** 4
 - **Words (OCR):** 103 in 85 lines: WARD-BECK systems LTD; · PARIS_LISI · 8-109 · AMPLLEIER_SERLES · 8-109C · 2-2 · A1I · parts · per · 8-109 except as noted be Iow · PARI DESCRIPIION · MEG
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p17 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p17%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p17 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p17%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p17 (traced)
 - **Words (OCR):** 72 in 48 lines: WAAD-BECK sysTems LTO_ · PARIS LISI · 8-109 · AMPLLFLER_SERIES · 8-109F · A11 · parts as per · 8-109 except · noted be ]ow · PART DESCRIPIION · MFG · MFG PART
 - **Title block:** (22, 60)–(132, 426) mm: WAAD-BECK sysTems LTO_ · 8-109 · 8-109F · A11 · parts as per · 8-109 except · PART DESCRIPIION · C6 · Capacitor · 4.7 PF · C11 · R15 · Res istor sw · 8-109G · AII parts · per · PARI DESCRIPIION · C6 ·
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p18 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p18%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p18 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p18%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -209,7 +209,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p18 (traced)
 - **Closed boxes:** 80; named: B| 2; cl 3; D 4; El5; Fl6; HI 7; Kl 9; L/1o; M11; N/12; Pl13; R/14
 - **Words (OCR):** 113 in 54 lines: IC · IC · IC B| 2 · IC · IC · cl 3 IC · REV SEND OUT · D 4 · REV SEND OUT · REV SEND Out El5 · REV SEND OUT · REV
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p19 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p19%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p19 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p19%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -219,7 +219,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p19 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 16 in 16 lines: REV SEND (RS) · SECTION · RS · VU · RS · LEVEL · RR IN · RS IN · RS · -10 dBm · 8- 109C · 10 dBm
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p20 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p20%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p20 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p20%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -230,7 +230,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p20 (traced)
 - **Words (OCR):** 62 in 51 lines: REV RETURN (RR) · SECTION · RR · DIRECT Out · PAN · dBm · -10 · INSERT · RR ON · RR · FADER · LEFT Out
 - **Title block:** (118, 14)–(334, 125) mm: 7/78 · 8-109 (C) · WAS 4-109(C) · 10/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: PMAKOXEY · M465 · ENG RKB · REVERB · MODULE · cKD Rully · FUNCTIONAL DIAGRAM · APP · SCAL
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p21 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p21%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p21 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p21%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -240,7 +240,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p21 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 93 in 81 lines: Sw7 · R-R ON · 15 · 713 12< · 2E2 · 5.6 · R38 · FADER · R13 · RETURN · IN · R37
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p22 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p22%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p22 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p22%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -252,7 +252,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p22 (traced)
 - **Words (OCR):** 120 in 113 lines: 16 · #2iV · ~2iv · LEFT · 2E3 · Sw? · 32E2 · 2E4 · REVERB · RETURN · Ri9 · R2i
 - **Title block:** (214, 8)–(296, 52) mm: WBS WARD-Beck · DRK: · DATE 2 OCLL7Z · M465 · CKD_ · REVERB MODULE · SCALE · SCHEMATIC · Ex · TOLS · 465-02-001
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p23 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p23%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p23 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p23%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p23 (traced)
 - **Words (OCR):** 91 in 74 lines: tipz9b · Q3 · R4236 · R43zs · CRi · 2N3569 · 73569 · Q5 ~R4456 · ~R45z6 · 2225_ C3 _ · 22/25 · -R3947ok
 - **Title block:** (118, 137)–(176, 293) mm: SwS · WBS 11-002 · To · To · Pin 6 Pin F · JS · Sw6 · SW? · J6 83 88 · R21 · Sw3 · wBS !1-022
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p24 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p24%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p24 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p24%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p24 (traced)
 - **Words (OCR):** 81 in 74 lines: tipz9b · Q3 R4256 04 · A4 · R4326 · R4i · #CR3 N+jo} · CRi · 343569 · CR2 · #CRA- · 05 -R445L · 06
 - **Title block:** (54, 10)–(281, 66) mm: DSS MODJICKD · USED OM · MATL · WBS WAAD-BECK · Dm · 1B532 · DRN: · M465 · FiMiSH · cKo Ral · REVERB MODULE · PCB LAYOUT · SCALE · TolS · 4-132-06-001
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p25 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p25%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p25 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p25%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p25 (traced)
 - **Words (OCR):** 128 in 73 lines: WBS · M465 · REVERB SEND MASTER Ieve | control Ri/z: Controls Ieve · REV SEND section · VU Heter Indicates · output leve ] of REV SEND · sect ion · MSTR · feeds · Pre-fade REY · SOLO shitch · SEND signa
 - **Title block:** (145, 0)–(335, 319) mm: WBS · M465 · REVERB SEND MASTER Ieve | control Ri/z: Controls Ieve · REV SEND section · MSTR · feeds · Pre-fade REY · SOLO shitch · SEND signa · Hhen depres sed, · output bus. · FOLdBACK LEVEL control
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p26 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p26%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p26 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p26%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -298,7 +298,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p26 (traced)
 - **Closed boxes:** 4; named: Ci ISe
 - **Words (OCR):** 119 in 117 lines: Ri3 · +I8v · C3 · 390 · iol25 · Ri7 · Ris · 4k7 · 22 · 02 · Pn3645 · Rs
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p27 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p27%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p27 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p27%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -312,7 +312,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p27 (traced)
 - **Title block:** (226, 0)–(336, 57) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN, GEB · 8 - 109 · ENG.MRW 4178 · CKD · BOOSTER AMPLIFIER · SCHEMATIC · APP · SCALE · 8-109-02-001 · ISSUE
 - **Wiring (first pass):** 27 connected wire groups from 254 runs; labelled ends: 202 mm → 2N4037, E7; 200 mm → E3; 148 mm → 220/10, E4, R3c; 148 mm → 4K7, E6, Cig, 22o/10; 107 mm → R35, 5*6, Cig, 22o/10
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p28 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p28%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p28 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p28%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -323,7 +323,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p28 (traced)
 - **Words (OCR):** 99 in 93 lines: E7 · E2 · ~C1 33/10 +c2: 47k · 33/1" · ~RI6 22k · +4lk CR2- · ~Ri8 · 22k · RS GK? · R4 Lk? · ~R2z · 4K7
 - **Title block:** (162, 40)–(336, 173) mm: ES · WBS · 8-109 · z2o/i2c16 · 22o/6 · 4k7 · ~R37 4k7 · ~R36 · EG · DrI · ENG · CKC
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p29 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p29%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p29 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p29%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -335,7 +335,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p29 (traced)
 - **Words (OCR):** 47 in 42 lines: E2 · 23/6 · FC2- A7k · R2- · R4 · Lk2 · Re · Gk2 · R7 · I8k · z2 · LF356
 - **Title block:** (114, 10)–(332, 112) mm: 4068 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109 · ENG.MRW · 4/78 · BOOSTER AMPLIFIER · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-109-06-001
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p30 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p30%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p30 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p30%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -345,7 +345,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p30 (traced)
 - **Closed boxes:** 3; named: Ci '7p
 - **Words (OCR):** 112 in 110 lines: RI3 · +18v · C3 · Ri7 · Ris · 10/2s · 4k7 · 22 · 32 · PN3645 · 03 · 2n2102
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p31 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p31%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p31 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p31%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -359,7 +359,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p31 (traced)
 - **Title block:** (226, 0)–(335, 59) mm: REvISION · IsSUE IDATE · WBS · WARD-BECK SYsTEMs · DRN: GEE · 8 = 109 € · ENG MRW 4/78 · BOOSTER AMPLiFiER · CKD · APP: · SCHEMATIC · SCALE · ISSUE · 8-109-02-004
 - **Wiring (first pass):** 24 connected wire groups from 242 runs; labelled ends: 204 mm → E3; 197 mm → E7; 147 mm → E4, 220/10, R36; 147 mm → R37, 4K7, 220/10; 107 mm → R34, 5.6, 220/10
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p32 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p32%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p32 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p32%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -370,7 +370,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p32 (traced)
 - **Closed boxes:** 2; named: 2i LF356; 22 Lf356
 - **Words (OCR):** 106 in 100 lines: E7 · E2 · ~Ci 33/10 FC2: 47k · 23/1 · RIG 22k · -c8G8p · R2- · ~Ri · ~Ri8 · 22k · RS · 6k2
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p33 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p33%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p33 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p33%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -382,7 +382,7 @@ Every curve, box, word and wire group: [1974 - M465 - Reverb Module p33 (traced)
 - **Words (OCR):** 45 in 43 lines: E20 · 33/6 · R2_ · 47k · R4 · 6k2 · R6 · 6k2 · I8k · R7 · 22 · LF356
 - **Title block:** (115, 12)–(332, 114) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · DRN: GEB · 8 = 109€ · ENG.MRW · 4/78 · BOOSTER · AMPLIFIER · CKD: · Ruk · COMPONENT · LAYOUT · APP · ISSUE · SCALE · 8-109-06-004
 
-Every curve, box, word and wire group: [1974 - M465 - Reverb Module p34 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p34%20(traced).json) (the CAD file: `1974 - M465 - Reverb Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - Reverb Module p34 (traced).json](../MANUALS/1974%20-%20M465%20-%20Reverb%20Module%20p34%20%28traced%29.json) (the CAD file: `1974 - M465 - Reverb Module p34 (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Closed boxes:** 39
 - **Wiring (first pass):** 99 connected wire groups from 830 runs
 
-Every curve, box, word and wire group: [1974 - M465 - 4-109-02-004 - BOOSTER AMPLIFIER ICKD (traced).json](../SCHEMATICS/1974%20-%20M465%20-%204-109-02-004%20-%20BOOSTER%20AMPLIFIER%20ICKD%20(traced).json) (the CAD file: `1974 - M465 - 4-109-02-004 - BOOSTER AMPLIFIER ICKD (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 4-109-02-004 - BOOSTER AMPLIFIER ICKD (traced).json](../SCHEMATICS/1974%20-%20M465%20-%204-109-02-004%20-%20BOOSTER%20AMPLIFIER%20ICKD%20%28traced%29.json) (the CAD file: `1974 - M465 - 4-109-02-004 - BOOSTER AMPLIFIER ICKD (traced).dxf`).
 
 ## Full text
 

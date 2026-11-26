@@ -35,7 +35,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Title block:** (226, 0)–(335, 59) mm: ISSUE DATE · REVisiON · APP · WBS · WAAD-BECK SYSTEMS · DRN: GEB · 8 - 109C · ENG MRw · 4/78 · BOOSTER AMPLiFiER · CKD · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-004
 - **Wiring (first pass):** 26 connected wire groups from 377 runs; labelled ends: 197 mm → 2N4037, E7; 194 mm → E3, 2n2102; 150 mm → 15, 22o/10, E4, R3@; 147 mm → R37, 4K7, E6, 16; 104 mm → 15, 22o/10, R34, 5-6
 
-Every curve, box, word and wire group: [1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-004%20-%208-109C%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-004%20-%208-109C%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

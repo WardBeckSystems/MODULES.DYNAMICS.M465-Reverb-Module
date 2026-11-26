@@ -20,7 +20,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Closed boxes:** 49
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1974 - M465 - 4-109-06-001 - BLACK OSS MOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M465%20-%204-109-06-001%20-%20BLACK%20OSS%20MOD%20ICKD%20USED%20(traced).json) (the CAD file: `1974 - M465 - 4-109-06-001 - BLACK OSS MOD ICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 4-109-06-001 - BLACK OSS MOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M465%20-%204-109-06-001%20-%20BLACK%20OSS%20MOD%20ICKD%20USED%20%28traced%29.json) (the CAD file: `1974 - M465 - 4-109-06-001 - BLACK OSS MOD ICKD USED (traced).dxf`).
 
 ## Full text
 

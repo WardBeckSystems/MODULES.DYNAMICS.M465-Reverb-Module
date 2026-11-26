@@ -21,7 +21,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Closed boxes:** 27; named: USED OM
 - **Words (OCR):** 91 in 76 lines: tipz9b · Q3 · R4256 · Ra3zs · Cri · 343569 · #CRA= · 1n3569 · Q5 ~R4454 · ~R456 · 2125 C3 · 22/25
 
-Every curve, box, word and wire group: [1974 - M465 - 461-03-015 - MOUNTED OVER PIN ILSS (traced).json](../MECHANICAL/1974%20-%20M465%20-%20461-03-015%20-%20MOUNTED%20OVER%20PIN%20ILSS%20(traced).json) (the CAD file: `1974 - M465 - 461-03-015 - MOUNTED OVER PIN ILSS (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 461-03-015 - MOUNTED OVER PIN ILSS (traced).json](../MECHANICAL/1974%20-%20M465%20-%20461-03-015%20-%20MOUNTED%20OVER%20PIN%20ILSS%20%28traced%29.json) (the CAD file: `1974 - M465 - 461-03-015 - MOUNTED OVER PIN ILSS (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M465](../../../../PAGES/M465.md)
 - **Words (OCR):** 90 in 67 lines: WBS · control Ri/2: contrals · REv SEND · REV SEnD sectior · WU Meter · Indicales oucdut cvc] · MsTR · When cupressed Feeds · Pre-Fade REV · SENJ signa · bus . · control
 - **Title block:** (131, 24)–(305, 324) mm: WBS · control Ri/2: contrals · REv SEND · MsTR · When cupressed Feeds · Pre-Fade REV · SENJ signa · bus . · control · Tows · chioose · the · icl-up · iLher · prPorntc to (PRE) · Ene · (post) tne · Fad
 
-Every curve, box, word and wire group: [1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL (traced).json](../MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20REVERB%20MODULE%20FRONT%20PANEL%20(traced).json) (the CAD file: `1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL (traced).json](../MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20REVERB%20MODULE%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL (traced).dxf`).
 
 ## Full text
 

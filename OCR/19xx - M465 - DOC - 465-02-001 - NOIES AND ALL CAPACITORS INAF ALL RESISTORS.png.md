@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (351, 21)–(387, 43) mm: WBS · WAAD · DRN · ECLE
 - **Wiring (first pass):** 143 connected wire groups from 804 runs, 3 dotted junctions; labelled ends: 412 mm → 2224, R5, R22, 390; 379 mm → BuZ, ECLE; 331 mm → R13, Ri2; 285 mm → REV: SEND, MASTER, 300; 193 mm → 18CONTROL CoMMON, R29, R3O 300, 300
 
-Every curve, box, word and wire group: [19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS (traced).json](../SCHEMATICS/19xx%20-%20M465%20-%20DOC%20-%20465-02-001%20-%20NOIES%20AND%20ALL%20CAPACITORS%20INAF%20ALL%20RESISTORS%20(traced).json) (the CAD file: `19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS (traced).json](../SCHEMATICS/19xx%20-%20M465%20-%20DOC%20-%20465-02-001%20-%20NOIES%20AND%20ALL%20CAPACITORS%20INAF%20ALL%20RESISTORS%20%28traced%29.json) (the CAD file: `19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS (traced).dxf`).
 
 ## Full text
 
