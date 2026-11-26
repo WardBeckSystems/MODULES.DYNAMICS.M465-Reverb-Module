@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/DYNAMICS/M465/MANUALS/1979 - M465 - Reverb Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/d460f0d3ef1d431b-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 314.7, 422.5],
+ "outlines": {
+  "line": {"rings": 139, "straight": {"n": 2216, "mm": 4750.0}, "curved": {"n": 386, "mm": 635.0}},
+  "text": {"rings": 182, "straight": {"n": 1197, "mm": 1578.9}, "curved": {"n": 210, "mm": 346.2}}
+ },
+ "circles": [{"c": [219.8, 6.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [278.1, 407.6, 282.6, 411.1], "w": 4.5, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [45.1, 392.5, 284.6, 410.6], "text": "(VVElS] 84' f'RI:IGI\"IESS AVEN.JE. sco..qeoRClUGH, 41 <l3S i550"},
+   {"mm": [121.1, 404.4, 250.0, 411.6], "text": "WARD-BECK SYSTEM"},
+   {"mm": [235.1, 398.1, 258.0, 402.0], "text": "ONTARIO"},
+   {"mm": [266.2, 398.1, 271.2, 402.0], "text": "1H"},
+   {"mm": [121.6, 392.5, 137.5, 396.6], "text": "T'EI..EX"},
+   {"mm": [142.1, 392.3, 152.6, 396.6], "text": "OB\""},
+   {"mm": [149.2, 240.1, 194.1, 249.9], "text": "M465"},
+   {"mm": [138.6, 228.2, 204.5, 234.4], "text": "REV ERB MO DULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–315 mm across, 0–422 mm up",
+  "- **Outlines:** line 139 rings, 2,216 straight (4,750 mm) / 386 curved (635 mm); text 182 rings, 1,197 straight (1,579 mm) / 210 curved (346 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (219.8, 6.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 23 in 12 lines: (VVElS] 84' f'RI:IGI\"IESS AVEN.JE. sco..qeoRClUGH, 41 <l3S i550 · WARD-BECK SYSTEM · ONTARIO · 1H · T'EI..EX · OB\" · M465 · REV ERB MO DULE · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/DYNAMICS/M465/MANUALS/1979 - M465 - Reverb Module.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/d460f0d3ef1d431b-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 6.7, 310.6, 414.3],
+ "outlines": {
+  "line": {"rings": 94, "straight": {"n": 1329, "mm": 3785.9}, "curved": {"n": 244, "mm": 401.1}},
+  "text": {"rings": 165, "straight": {"n": 1315, "mm": 1548.7}, "curved": {"n": 352, "mm": 564.3}},
+  "tb": {"rings": 22, "straight": {"n": 183, "mm": 207.3}, "curved": {"n": 54, "mm": 87.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [29.6, 408.5, 143.6, 413.8], "text": "WARD-BECK SYSTEMS TD"},
+   {"mm": [132.3, 346.1, 204.0, 352.1], "text": "M465 REVERB MODULE"},
+   {"mm": [43.4, 319.3, 54.4, 325.8], "text": "WBS"},
+   {"mm": [71.7, 319.3, 94.3, 325.8], "text": "oe end"},
+   {"mm": [108.2, 319.3, 258.9, 325.8], "text": "he use of repl aceeen parts lIIa de by th"},
+   {"mm": [43.6, 312.6, 264.3, 319.1], "text": "specified lIilnufa ur rs for continued optimUIII equipment"},
+   {"mm": [43.8, 306.4, 89.2, 312.8], "text": "pe rfo lllilnce."},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [164.7, 4.7, 174.4, 11.2], "text": "3-3"}
+  ]
+ },
+ "title_block": {"mm": [22.8, 310.8, 131.9, 422.5], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS TD", "WBS", "oe end"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 7–414 mm up",
+  "- **Outlines:** line 94 rings, 1,329 straight (3,786 mm) / 244 curved (401 mm); text 165 rings, 1,315 straight (1,549 mm) / 352 curved (564 mm); tb 22 rings, 183 straight (207 mm) / 54 curved (87.9 mm)",
+  "- **Words (OCR):** 35 in 12 lines: WARD-BECK SYSTEMS TD · M465 REVERB MODULE · WBS · oe end · he use of repl aceeen parts lIIa de by th · specified lIilnufa ur rs for continued optimUIII equipment · pe rfo lllilnce. · ps · BS · tp · ht · 3-3",
+  "- **Title block:** (23, 311)–(132, 422) mm: WARD-BECK SYSTEMS TD · WBS · oe end"
+ ]
+}

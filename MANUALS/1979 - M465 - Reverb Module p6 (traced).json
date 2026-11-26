@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/DYNAMICS/M465/MANUALS/1979 - M465 - Reverb Module.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/d460f0d3ef1d431b-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 333.6, 421.9],
+ "outlines": {
+  "line": {"rings": 108, "straight": {"n": 1540, "mm": 4345.5}, "curved": {"n": 225, "mm": 354.1}},
+  "text": {"rings": 521, "straight": {"n": 3702, "mm": 4104.9}, "curved": {"n": 1023, "mm": 1629.3}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [139.3, 409.6, 142.1, 411.7], "w": 2.9, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 95,
+  "lines": [
+   {"mm": [30.0, 407.2, 43.4, 412.5], "text": "WA"},
+   {"mm": [85.9, 407.2, 142.5, 412.5], "text": "SYSTEMS LTD"},
+   {"mm": [129.3, 360.6, 200.4, 366.6], "text": "CIRCUI DESCRIPTIO"},
+   {"mm": [129.3, 347.4, 206.0, 353.4], "text": "M465 REVERB MODULE"},
+   {"mm": [44.9, 320.0, 136.4, 326.2], "text": "Power Supply Oecoupli ng"},
+   {"mm": [44.5, 307.0, 276.8, 313.2], "text": "An active powe supply dec ou pl ing net wor consis ing of 01"},
+   {"mm": [44.9, 300.3, 84.0, 306.8], "text": "through 06"},
+   {"mm": [89.2, 300.3, 115.9, 306.8], "text": "pr ovt de"},
+   {"mm": [133.2, 300.3, 256.9, 306.8], "text": "high deg re of isolation betwee"},
+   {"mm": [269.9, 300.3, 276.6, 306.8], "text": "he"},
+   {"mm": [44.5, 293.8, 60.5, 299.8], "text": "M465"},
+   {"mm": [64.6, 293.6, 108.4, 299.9], "text": "and the !25"},
+   {"mm": [113.1, 293.6, 155.2, 299.9], "text": "vo lt supp ly"},
+   {"mm": [169.9, 293.6, 180.3, 299.9], "text": "ils"},
+   {"mm": [193.7, 293.6, 248.9, 299.9], "text": "Tra nsisto rs 05"},
+   {"mm": [253.7, 293.6, 276.8, 299.9], "text": "lin 06"},
+   {"mm": [44.9, 286.9, 63.7, 293.2], "text": "serve"},
+   {"mm": [80.7, 286.9, 175.5, 293.2], "text": "current monito rs nd wil"},
+   {"mm": [193.2, 286.9, 200.4, 293.2], "text": "mi"},
+   {"mm": [213.7, 286.9, 285.6, 293.2], "text": "he cu ren flo w1ng"},
+   {"mm": [44.9, 280.2, 107.7, 286.5], "text": "through he pass"},
+   {"mm": [125.4, 280.2, 132.1, 286.5], "text": "ns"},
+   {"mm": [161.7, 280.2, 288.4, 286.5], "text": "OJ an Q4 in the ev ent ex es ive"},
+   {"mm": [44.9, 273.5, 147.2, 280.0], "text": "power supply demandS shoul"},
+   {"mm": [161.7, 273.5, 187.6, 280.0], "text": "rise as"},
+   {"mm": [205.8, 273.5, 276.8, 280.0], "text": "es lt of component"},
+   {"mm": [44.9, 266.9, 74.7, 273.1], "text": "failure."},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [165.4, 4.7, 174.7, 10.7], "text": "1-1"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–422 mm up",
+  "- **Outlines:** line 108 rings, 1,540 straight (4,346 mm) / 225 curved (354 mm); text 521 rings, 3,702 straight (4,105 mm) / 1,023 curved (1,629 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 95 in 32 lines: WA · SYSTEMS LTD · CIRCUI DESCRIPTIO · M465 REVERB MODULE · Power Supply Oecoupli ng · An active powe supply dec ou pl ing net wor consis ing of 01 · through 06 · pr ovt de · high deg re of isolation betwee · he · M465 · and the !25"
+ ]
+}

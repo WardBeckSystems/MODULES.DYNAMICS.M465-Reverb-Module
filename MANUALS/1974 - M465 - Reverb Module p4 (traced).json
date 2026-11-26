@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/DYNAMICS/M465/MANUALS/1974 - M465 - Reverb Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/77abe1824142ec21-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.9, 422.1],
+ "outlines": {
+  "line": {"rings": 38, "straight": {"n": 964, "mm": 3347.1}, "curved": {"n": 71, "mm": 119.9}},
+  "text": {"rings": 490, "straight": {"n": 3883, "mm": 4476.1}, "curved": {"n": 998, "mm": 1552.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 62,
+  "lines": [
+   {"mm": [31.3, 408.1, 146.8, 415.7], "text": "WAAD-BECK SYSTeMS LTD_"},
+   {"mm": [141.8, 361.6, 199.1, 369.3], "text": "TECHNICAL DATA"},
+   {"mm": [133.9, 348.0, 207.9, 356.4], "text": "M465 REVERB MODULE"},
+   {"mm": [41.0, 320.6, 66.9, 329.2], "text": "Output"},
+   {"mm": [69.1, 321.7, 97.6, 329.4], "text": "Levels:"},
+   {"mm": [69.5, 307.7, 97.6, 315.8], "text": "Return:"},
+   {"mm": [133.9, 308.7, 195.2, 315.7], "text": "-10 dBm nomina ]"},
+   {"mm": [201.9, 308.3, 266.4, 315.7], "text": "+28 dBm maximum."},
+   {"mm": [77.1, 301.8, 97.6, 308.8], "text": "Send :"},
+   {"mm": [145.7, 301.8, 159.3, 308.8], "text": "dBm"},
+   {"mm": [161.9, 301.2, 260.6, 308.9], "text": "nomina] , 424 dBm maximum_"},
+   {"mm": [40.4, 283.9, 74.1, 294.0], "text": "Phasing:"},
+   {"mm": [133.4, 284.1, 171.2, 292.8], "text": "Input and"},
+   {"mm": [173.8, 284.6, 199.1, 292.0], "text": "output"},
+   {"mm": [202.3, 283.9, 283.3, 292.7], "text": "termina ] 5 des ignated"},
+   {"mm": [133.9, 277.4, 190.6, 285.6], "text": "by numbers are"},
+   {"mm": [193.9, 277.2, 230.6, 286.8], "text": "in phase."},
+   {"mm": [132.3, 260.2, 275.3, 270.2], "text": "+25 volts dc, 50 nominal , 100 ma"},
+   {"mm": [39.9, 261.0, 118.1, 269.7], "text": "Power Requirements :"},
+   {"mm": [201.9, 261.7, 210.9, 268.6], "text": "mA"},
+   {"mm": [132.8, 253.9, 166.2, 262.8], "text": "maximum."},
+   {"mm": [133.2, 248.7, 142.5, 255.2], "text": "24"},
+   {"mm": [145.3, 247.9, 196.5, 256.0], "text": "volts , 50 mA _"},
+   {"mm": [40.4, 230.6, 121.8, 239.5], "text": "Ambient Temperature:"},
+   {"mm": [141.4, 231.4, 150.5, 238.4], "text": "t0"},
+   {"mm": [153.7, 230.1, 228.2, 239.0], "text": "60  degrees Celsius"},
+   {"mm": [40.2, 214.6, 85.7, 222.8], "text": "Dimensions :"},
+   {"mm": [152.9, 213.5, 239.0, 223.4], "text": "wide X 7\" high 6 . 5 \""},
+   {"mm": [242.0, 214.2, 259.5, 222.6], "text": "deep"},
+   {"mm": [133.9, 214.8, 150.5, 222.3], "text": "1 . 6\""},
+   {"mm": [133.9, 207.3, 235.8, 215.9], "text": "(41 X 178 X 165 mm )"},
+   {"mm": [149.6, 208.6, 158.9, 213.8], "text": "Mm"},
+   {"mm": [185.9, 208.6, 195.2, 213.8], "text": "MM"},
+   {"mm": [163.4, 6.0, 176.4, 13.0], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–422 mm up",
+  "- **Outlines:** line 38 rings, 964 straight (3,347 mm) / 71 curved (120 mm); text 490 rings, 3,883 straight (4,476 mm) / 998 curved (1,552 mm)",
+  "- **Words (OCR):** 62 in 34 lines: WAAD-BECK SYSTeMS LTD_ · TECHNICAL DATA · M465 REVERB MODULE · Output · Levels: · Return: · -10 dBm nomina ] · +28 dBm maximum. · Send : · dBm · nomina] , 424 dBm maximum_ · Phasing:"
+ ]
+}

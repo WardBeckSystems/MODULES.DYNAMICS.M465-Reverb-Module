@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/DYNAMICS/M465/MANUALS/1974 - M465 - Reverb Module.pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/77abe1824142ec21-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.4, 335.3, 401.6],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 1499, "mm": 4264.8}, "curved": {"n": 155, "mm": 239.7}},
+  "text": {"rings": 103, "straight": {"n": 728, "mm": 850.1}, "curved": {"n": 230, "mm": 375.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [199.1, 332.3, 208.1, 359.7], "w": 9.1, "h": 27.4, "from": "ring"}],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [105.8, 395.5, 153.7, 402.5], "text": "REV SEND (RS)"},
+   {"mm": [155.9, 396.2, 183.5, 402.7], "text": "SECTION"},
+   {"mm": [209.9, 354.5, 219.1, 361.0], "text": "RS"},
+   {"mm": [209.9, 346.5, 219.6, 353.0], "text": "VU"},
+   {"mm": [152.2, 315.6, 161.9, 322.1], "text": "RS"},
+   {"mm": [147.2, 307.7, 166.7, 314.1], "text": "LEVEL"},
+   {"mm": [282.6, 307.7, 301.0, 314.1], "text": "RR IN"},
+   {"mm": [11.2, 300.5, 28.9, 307.0], "text": "RS IN"},
+   {"mm": [262.1, 298.4, 271.8, 304.9], "text": "RS"},
+   {"mm": [280.0, 299.7, 303.8, 306.1], "text": "-10 dBm"},
+   {"mm": [174.9, 297.3, 196.0, 303.8], "text": "8- 109C"},
+   {"mm": [11.9, 293.2, 31.7, 299.7], "text": "10 dBm"},
+   {"mm": [215.0, 289.3, 235.8, 297.0], "text": "(-6dB)"},
+   {"mm": [260.6, 290.4, 274.0, 296.9], "text": "Out"},
+   {"mm": [146.2, 286.1, 168.8, 293.0], "text": "(-15dB)"},
+   {"mm": [256.3, 282.4, 278.3, 289.4], "text": "+8dBm"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 8–402 mm up",
+  "- **Outlines:** line 58 rings, 1,499 straight (4,265 mm) / 155 curved (240 mm); text 103 rings, 728 straight (850 mm) / 230 curved (376 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 16 in 16 lines: REV SEND (RS) · SECTION · RS · VU · RS · LEVEL · RR IN · RS IN · RS · -10 dBm · 8- 109C · 10 dBm"
+ ]
+}
