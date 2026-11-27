@@ -1,0 +1,588 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
+  "module": "M465",
+  "applies_to": [
+    "M465"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "465-04-003",
+    "title": "M465 REVERB MODULE CONNECTOR REAR VIEW",
+    "date": "1977-10",
+    "issue": "2",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "REV SEND OUT",
+      "signal": "REV SEND OUT",
+      "kind": "insert_send",
+      "port": "REV SEND OUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "REV SEND OUT",
+      "signal": "REV SEND OUT",
+      "kind": "insert_send",
+      "port": "REV SEND OUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "REV SEND OUT",
+      "signal": "REV SEND OUT",
+      "kind": "insert_send",
+      "port": "REV SEND OUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "REV SEND OUT",
+      "signal": "REV SEND OUT",
+      "kind": "insert_send",
+      "port": "REV SEND OUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "REV SEND IN",
+      "signal": "REV SEND IN",
+      "kind": "in",
+      "port": "REV SEND IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "REV SEND IN",
+      "signal": "REV SEND IN",
+      "kind": "in",
+      "port": "REV SEND IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "FB OUT",
+      "signal": "FB OUT",
+      "kind": "out",
+      "port": "FB OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "FB OUT",
+      "signal": "FB OUT",
+      "kind": "out",
+      "port": "FB OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "SOLO OUT",
+      "signal": "SOLO OUT",
+      "kind": "out",
+      "port": "SOLO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "SOLO OUT",
+      "signal": "SOLO OUT",
+      "kind": "out",
+      "port": "SOLO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "RR OUT, DIRECT",
+      "signal": "RR OUT DIRECT",
+      "kind": "out",
+      "port": "RR OUT DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "RR OUT, DIRECT",
+      "signal": "RR OUT DIRECT",
+      "kind": "out",
+      "port": "RR OUT DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "FROM RR FADER",
+      "signal": "FROM RR FADER",
+      "kind": "insert_return",
+      "port": "FROM RR FADER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "FROM RR FADER",
+      "signal": "FROM RR FADER",
+      "kind": "insert_return",
+      "port": "FROM RR FADER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "TO RR FADER",
+      "signal": "TO RR FADER",
+      "kind": "insert_send",
+      "port": "TO RR FADER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "TO RR FADER",
+      "signal": "TO RR FADER",
+      "kind": "insert_send",
+      "port": "TO RR FADER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "INTERNAL CONNECTION",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "RETURN IN",
+      "signal": "RETURN IN",
+      "kind": "insert_return",
+      "port": "RETURN IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "RETURN IN",
+      "signal": "RETURN IN",
+      "kind": "insert_return",
+      "port": "RETURN IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "RR OUT, LEFT",
+      "signal": "RR OUT LEFT",
+      "kind": "out",
+      "port": "RR OUT LEFT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": null,
+      "as_drawn": "RR OUT, LEFT",
+      "signal": "RR OUT LEFT",
+      "kind": "out",
+      "port": "RR OUT LEFT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "RR OUT, RIGHT",
+      "signal": "RR OUT RIGHT",
+      "kind": "out",
+      "port": "RR OUT RIGHT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": null,
+      "as_drawn": "RR OUT, RIGHT",
+      "signal": "RR OUT RIGHT",
+      "kind": "out",
+      "port": "RR OUT RIGHT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": null,
+      "as_drawn": "SOLO CTL",
+      "signal": "SOLO CONTROL",
+      "kind": "control_in",
+      "port": "SOLO CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25 V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": null,
+      "as_drawn": "24V COM",
+      "signal": "24V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": null,
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "REV SEND OUT 1",
+      "dir": "insert_send",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-D"
+      }
+    },
+    {
+      "name": "REV SEND OUT 2",
+      "dir": "insert_send",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-E"
+      }
+    },
+    {
+      "name": "REV SEND IN",
+      "dir": "in",
+      "pins": {
+        "a": "P1-6",
+        "b": "P1-F"
+      }
+    },
+    {
+      "name": "FB OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-8",
+        "b": "P1-J"
+      }
+    },
+    {
+      "name": "SOLO OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-9",
+        "b": "P1-K"
+      }
+    },
+    {
+      "name": "RR OUT DIRECT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-M"
+      }
+    },
+    {
+      "name": "FROM RR FADER",
+      "dir": "insert_return",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-N"
+      }
+    },
+    {
+      "name": "TO RR FADER",
+      "dir": "insert_send",
+      "pins": {
+        "a": "P1-13",
+        "b": "P1-P"
+      }
+    },
+    {
+      "name": "RETURN IN",
+      "dir": "insert_return",
+      "pins": {
+        "a": "P1-15",
+        "b": "P1-S"
+      }
+    },
+    {
+      "name": "RR OUT LEFT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-16",
+        "b": "P1-T"
+      }
+    },
+    {
+      "name": "RR OUT RIGHT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-17",
+        "b": "P1-U"
+      }
+    },
+    {
+      "name": "SOLO CTL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-V"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "REVERB SEND/RETURN",
+      "send": "REV SEND OUT 1",
+      "return": "RETURN IN",
+      "normalled": null,
+      "note": "REV SEND OUT to the reverb device, RETURN IN back from it; REV SEND OUT is on two rows (4/D and 5/E), second recorded as REV SEND OUT 2 - whether they are two parallel feeds is not stated"
+    },
+    {
+      "name": "RR FADER",
+      "send": "TO RR FADER",
+      "return": "FROM RR FADER",
+      "normalled": null,
+      "note": "reverb-return fader loop: TO RR FADER out to a remote fader, FROM RR FADER back"
+    }
+  ],
+  "straps": [],
+  "unread": [
+    "DRN field blank; CKD signature only",
+    "connector name not drawn; 'P1' assumed"
+  ],
+  "confidence": "high",
+  "notes": "Each label is written on both sides, once per contact (number side right, letter side left), so every contact is its own pin (also=null); same-label pairs are treated as balanced pairs a (number) / b (letter), no polarity marks. Row 18 differs: 18 CTL COM, V SOLO CTL; 19 -25V / W NC; 20 25V COM / X 24V COM; 21 +25V / Y +24V; 22 CHASSIS / Z NC. Legend: NC not connected, IC internally connected. RR = reverb return. REV SEND IN taken as the module's reverb-send bus input (not an insert). Date OCT 77 with ISS 2 though the file name says 1974."
+}

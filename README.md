@@ -108,41 +108,61 @@ Not on Google Drive yet: `M465 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-17 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); 1 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree REV SEND OUT 2: kept insert port; inserts says no partner (send / return) named
+- insert guessed: 'P1' assumed REV SEND OUT to the reverb device, RETURN IN back from it; (M465: 1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg)
+
+**Inserts:** REVERB SEND/RETURN: REV SEND OUT 1 → RETURN IN · RR FADER: TO RR FADER → FROM RR FADER
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 3 | IC | nc |  | medium |
-| 4 | IC | nc |  | medium |
-| 5 | REV SEND | out |  | medium |
-| 6 | REV SEND | out |  | medium |
-| 7 | NC | nc |  | medium |
-| 8 | FB OUT | out |  | medium |
-| 9 | SOLO OUT | out |  | medium |
-| 10 | RR OUT | out |  | medium |
-| 11 | FROM RR | other |  | medium |
-| 12 | TO RR FADER | other |  | medium |
-| 13 | RETURN IN | in |  | medium |
-| 14 | RR OUT, LEFT | out |  | medium |
-| 15 | OUT | out |  | medium |
-| 16 | 25V | other |  | medium |
-| 17 | 25V COM | ground |  | medium |
-| A | DIRECT | other |  | medium |
-| B | FADER | other |  | medium |
-| C | IC | nc |  | medium |
-| D | IC | nc |  | medium |
-| E | REV SEND OUT | out |  | medium |
-| F | REV SEND OUT | out |  | medium |
-| H | NC | nc |  | medium |
-| J | FB OUT | out |  | medium |
-| K | SOLO OUT | out |  | medium |
-| L | RR OUT, DIRECT | out |  | medium |
-| M | FROM RR FADER | other |  | medium |
-| N | FADER | other |  | medium |
-| P | RETURN IN | in |  | medium |
-| R | RR OUT, LEFT | out |  | medium |
-| T | NC | nc |  | medium |
-| U | 24V COM | ground |  | medium |
+| 1 | INTERNAL CONNECTION | other |  | high |
+| 2 | INTERNAL CONNECTION | other |  | high |
+| 3 | INTERNAL CONNECTION | other |  | high |
+| 4 | REV SEND OUT | insert_send | REV SEND OUT 1 | high |
+| 5 | REV SEND OUT | insert_send | REV SEND OUT 2 | high |
+| 6 | REV SEND IN | in | REV SEND IN | high |
+| 7 | N/C | nc |  | high |
+| 8 | FB OUT | out | FB OUT | high |
+| 9 | SOLO OUT | out | SOLO OUT | high |
+| 10 | N/C | nc |  | high |
+| 11 | RR OUT DIRECT | out | RR OUT DIRECT | high |
+| 12 | FROM RR FADER | insert_return | FROM RR FADER | high |
+| 13 | TO RR FADER | insert_send | TO RR FADER | high |
+| 14 | INTERNAL CONNECTION | other |  | high |
+| 15 | RETURN IN | insert_return | RETURN IN | high |
+| 16 | RR OUT LEFT | out | RR OUT LEFT L | high |
+| 17 | RR OUT RIGHT | out | RR OUT RIGHT R | high |
+| 18 | CONTROL COMMON | ground |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COM | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | INTERNAL CONNECTION | other |  | high |
+| B | INTERNAL CONNECTION | other |  | high |
+| C | INTERNAL CONNECTION | other |  | high |
+| D | REV SEND OUT | insert_send | REV SEND OUT 1 | high |
+| E | REV SEND OUT | insert_send | REV SEND OUT 2 | high |
+| F | REV SEND IN | in | REV SEND IN | high |
+| H | N/C | nc |  | high |
+| J | FB OUT | out | FB OUT | high |
+| K | SOLO OUT | out | SOLO OUT | high |
+| L | N/C | nc |  | high |
+| M | RR OUT DIRECT | out | RR OUT DIRECT | high |
+| N | FROM RR FADER | insert_return | FROM RR FADER | high |
+| P | TO RR FADER | insert_send | TO RR FADER | high |
+| R | INTERNAL CONNECTION | other |  | high |
+| S | RETURN IN | insert_return | RETURN IN | high |
+| T | RR OUT LEFT | out | RR OUT LEFT L | high |
+| U | RR OUT RIGHT | out | RR OUT RIGHT R | high |
+| V | SOLO CONTROL | control_in | SOLO CTL | high |
+| W | N/C | nc |  | high |
+| X | 24V COM | ground |  | high |
+| Y | +24 V | power |  | high |
+| Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
