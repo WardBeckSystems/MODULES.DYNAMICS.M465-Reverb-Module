@@ -79,6 +79,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1974 - 465-03-001 - M455 & M465 EXTRUSION - DRN DM - ISS 9.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M465.stl`](MECHANICAL/M465.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M465)
+
+- **Size:** 51.73 × 195.33 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 11 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M465 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M465.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
