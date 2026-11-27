@@ -13,6 +13,61 @@ Ward-Beck Systems M465, 1974|7. Wiki page: [M465 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 27 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 73 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M465 - 5.jpg](MANUALS/1974%20-%20M465%20-%205.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;Return | Send: 15 dB ±0.5 dB _ 33 dB ±0.5 dB; t ±0.25 dB from 20 Hz to 20 kHz. o {. |
+| **Frequency response** | Noise: |
+| **Return** | Send: 80 dB S/ N 85 dB S/N (20 Hz to 20 kHz) be ]ow nomina] operating s igna ] Teve 1 |
+| **Harmonic distortion** | Less than 0.25% from 20 Hz to 20 kHz at +28 dBm output Teve 1 or Tess Less than 0.1% at kHz at +28 dBm output_ Source Impedances: 600 ohm or Tess, balanced |
+| **Input impedances** | 600 ohm, baLanced |
+| **Input levels** | 10 dBm nomina ] +30 dBm maximum. |
+| **Output impedances** |  |
+| &nbsp;&nbsp;Return | Send: Less than 200 ohm, balanced 600 ohm, balanced |
+| **Load impedances** |  |
+| &nbsp;&nbsp;Return | 3,000 ohm minimum, each output, balanced _ 600 ohm, balanced. |
+| &nbsp;&nbsp;Output levels |  |
+| &nbsp;&nbsp;Return | Send: -10 dBm nomina], +30 dBm maximum_ +8 dBm nomina ] +24 dBm maximum |
+| **Phasing** | Input and output terminals desi grated by numbers are in phase |
+
+## Circuit description
+
+From [1979 - M465 - Reverb Module.pdf](MANUALS/1979%20-%20M465%20-%20Reverb%20Module.pdf) pages 5-7 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M46 S REVE RB MODULE is designed to be used i nco njunc tion with a nell te rnel r eve rbe r e t t cn chamber. The Module is divided into a REVERB SEND (RS) and a REVERB RETURN (RR) section.
+
+Re verb Send Originating f rOIl theRe verb Send Milling bus, the signal enters the Module at pins 6/F. The pete nt t oee t e r RI/R 2 serves a s the RS MASTER Level control. The 8 ~ 109 C Booster AlfIpl if 1e r raises the COllbined o r Ml u d signal to standard line level.
+
+Amplifier. I t is cal1brated t o read ° A vu Meter is connected tot he output oft he B-109C Booster vu with pins 4/ 0 and / or S/ E terMinated Into 600 ohMS and producing a n output level of +8 dBM.
+
+Switch SWS allows to feed the pre fade Reve rb Sends i gnal tot he SOLO output atp ins 9/ 1(.
+
+Rever b Return The Returns i gnal frOM there ve r beret f on c h&quot; Mbe r I s applied to pins 15/ 5. Fro &quot; here, 1t continues tot he ' RR ON' switch SW7. A Fa der Insert isp r ovid e d between pins l3 /P and 121N. The 8 -109 Booster Amplifier recovers the no. ina l 15 dB -i n ha ndl oss incurred by the fader and develops sufficient additional power tod rivet he PAN and output circuit ry. The outputs i gnal oft he 8 ~109 amplifier is routed via PANs witch SW3 and PAN control R5 through R8 to the LEFT and RIGHT outputs atp ins 16/T and 17/U respectively. In addition, a DIRECT output isp rovid e dat pins 111M.
+
+A FOLD8AC I(output is made available atp ins 8/J. Switch 5W6 facilitates p r efa de o r post fade source selection fort he
+
+FDlDBACI(output. Potent i ome t e r R3/ R4 serves a s the FOlOBACI(
+
+level control, followed by switch SW2.
+
+SW4 switches the pre fade Re verb Returns i gna l t o the SOLO output.
+
+Power Supply Oecoupli ng An active power supply dec ou pl ing network consisting of 01 through 06 pr ovt de s.a high degree of isolation between the M465 and the !25 volt supply rails. Transistors 05 lind 06 serve a s current monitors and will limit the current flo w1ng through the pass t r e ns t s tors OJ and Q4 in the event excessive power supply demandS should arise as ares u lt of component failure.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
