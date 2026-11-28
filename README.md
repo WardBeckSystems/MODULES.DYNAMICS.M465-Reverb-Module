@@ -4,13 +4,11 @@ Ward-Beck Systems M465, 1974|7. Wiki page: [M465 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 111 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 24 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 244 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 29 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 110 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 23 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 243 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 28 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 71 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -77,7 +75,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gNFOZ2eSCOc1GttnhyJGS9wuthDUxXj6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gNFOZ2eSCOc1GttnhyJGS9wuthDUxXj6" width="240" alt="19xx - M465 - DOC - 465-03-002 - UNC NOIE.jpg"></a><br><sub>19xx - M465 - DOC - 465-03-002 - UNC NOIE · <a href="MECHANICAL/19xx%20-%20M465%20-%20DOC%20-%20465-03-002%20-%20UNC%20NOIE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 465-03-001 - M455 & M465 EXTRUSION - DRN DM - ISS 9.jpg`
+## 3-D model
+
+[`MECHANICAL/M465.stl`](MECHANICAL/M465.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M465)
+
+- **Size:** 51.73 × 195.33 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 11 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M465 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M465.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -93,8 +97,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZTZ6Zk5LQXRMV2s/view?resourcekey=0-i_wFJ_aTEsk20JC4TSOZAA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZTZ6Zk5LQXRMV2s&resourcekey=0-i_wFJ_aTEsk20JC4TSOZAA" width="240" alt="1974 - M465 - B 465-01-001 - M465 - REVERB MODULE - FUNCTIONAL DIAGRAM.jpg"></a><br><sub>1974|7 · B 465-01-001 - M465 - REVERB MODULE - FUNCTIONAL DIAGRAM · <a href="SCHEMATICS/1974%20-%20M465%20-%20B%20465-01-001%20-%20M465%20-%20REVERB%20MODULE%20-%20FUNCTIONAL%20DIAGRAM%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1kC2Ye7wLfE9DZv34LsHOYHQm1yxYXDs9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1kC2Ye7wLfE9DZv34LsHOYHQm1yxYXDs9" width="240" alt="19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS.png"></a><br><sub>19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS · <a href="SCHEMATICS/19xx%20-%20M465%20-%20DOC%20-%20465-02-001%20-%20NOIES%20AND%20ALL%20CAPACITORS%20INAF%20ALL%20RESISTORS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4.jpg`, `1977 - 465-01-001 - REVERB MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg`, `1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2.png`, `1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -102,8 +104,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3Vkb1Q2SkE2Rlk/view?resourcekey=0-ZjAeTbffPv2uaJPzTAmZIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3Vkb1Q2SkE2Rlk&resourcekey=0-ZjAeTbffPv2uaJPzTAmZIg" width="240" alt="1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg"></a><br><sub>1974|7 · 465-04-003 - CONNECTOR REAR VIEW CALE · <a href="PINOUTS/1974%20-%20M465%20-%20465-04-003%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M465 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -215,7 +215,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2.kicad_sch](KICAD/1982%20-%20465-02-003%20-%20M465B%20REVERB%20MODULE%20SCHEMATIC%20-%20DRN%20JET%20-%20ENG%20PA%20-%20ISS%202.kicad_sch)
 - [19xx - M465 - DOC - 465-02-001 - NOIES AND ALL CAPACITORS INAF ALL RESISTORS.kicad_sch](KICAD/19xx%20-%20M465%20-%20DOC%20-%20465-02-001%20-%20NOIES%20AND%20ALL%20CAPACITORS%20INAF%20ALL%20RESISTORS.kicad_sch)
 - [M465.kicad_sym](KICAD/M465.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
