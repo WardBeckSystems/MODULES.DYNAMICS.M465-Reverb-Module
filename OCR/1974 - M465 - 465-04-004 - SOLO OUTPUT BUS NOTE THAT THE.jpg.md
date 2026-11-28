@@ -1,5 +1,5 @@
 # 1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1974 (module estimate (drawing job number))

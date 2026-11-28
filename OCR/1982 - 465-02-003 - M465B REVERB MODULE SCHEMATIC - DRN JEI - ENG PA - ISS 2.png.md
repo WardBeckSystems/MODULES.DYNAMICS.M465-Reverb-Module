@@ -1,5 +1,5 @@
 # 1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2.png
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1982 (title block date)

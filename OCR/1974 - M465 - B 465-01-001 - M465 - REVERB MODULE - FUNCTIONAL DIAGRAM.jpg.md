@@ -1,5 +1,5 @@
 # 1974 - M465 - B 465-01-001 - M465 - REVERB MODULE - FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1974 (module estimate (drawing job number))

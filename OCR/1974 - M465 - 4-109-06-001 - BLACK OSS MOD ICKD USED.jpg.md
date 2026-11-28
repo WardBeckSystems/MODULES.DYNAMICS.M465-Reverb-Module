@@ -1,5 +1,5 @@
 # 1974 - M465 - 4-109-06-001 - BLACK OSS MOD ICKD USED.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1974 (module estimate (drawing job number))

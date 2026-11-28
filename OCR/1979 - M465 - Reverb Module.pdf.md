@@ -1,5 +1,5 @@
 # 1979 - M465 - Reverb Module.pdf
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1979 (found in this file: "JAN. 19 79")

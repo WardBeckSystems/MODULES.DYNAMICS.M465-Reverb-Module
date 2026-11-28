@@ -1,5 +1,5 @@
 # 1977 - 465-01-001 - REVERB MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1977 (title block date)

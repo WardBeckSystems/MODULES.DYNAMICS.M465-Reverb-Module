@@ -1,5 +1,5 @@
 # 1978 - 8-109-02-001 - 8-109 BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1978 (title block date)

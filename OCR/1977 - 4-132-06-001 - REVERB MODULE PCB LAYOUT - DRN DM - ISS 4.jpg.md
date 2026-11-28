@@ -1,5 +1,5 @@
 # 1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4.jpg
-Wiki page: [M465](../../../../PAGES/M465.md)
+Wiki page: [M465](../)
 
 
 - **Year:** 1977 (title block date)
